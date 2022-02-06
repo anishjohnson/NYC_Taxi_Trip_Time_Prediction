@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/87002524/152673275-92be9501-59c5-4d45-b9b9-c6d1e4c8202a.png)
+![d2](https://user-images.githubusercontent.com/87002524/152673464-b46433da-2724-45fe-980f-c9f5e51f7392.jpg)
 # Project Title : Taxi trip time Prediction : Predicting total ride duration of taxi trips in New York City
 ## Problem Description
 ### Your task is to build a model that predicts the total ride duration of taxi trips in New York City. Your primary dataset is one released by the NYC Taxi and Limousine Commission, which includes pickup time, geo-coordinates, number of passengers, and several other variables.
